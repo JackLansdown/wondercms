@@ -109,6 +109,7 @@ class Wcms
 		$this->db = $this->getDb();
 	}
 
+	
 	/**
 	 * Setting default paths
 	 *
